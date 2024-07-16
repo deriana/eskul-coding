@@ -1,0 +1,10 @@
+.video {
+    width: 100%;
+    display: grid;
+    place-items: center;
+    margin-top: 50px;
+
+    video {
+        width: 90%;
+    }
+}
