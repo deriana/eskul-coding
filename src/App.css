@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    header {
+        .header-title {
+            width: 50%;
+        }
+        
+        .nav-bar {
+            display: none;
+        }
+    }
+}
+.register {
+    button {
+        width: 150px;
+        height: 50px;
+    }
+}
+
+.quiz {
+    button {
+        width: 120px;
+    }
+}
